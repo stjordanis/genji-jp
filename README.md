@@ -60,7 +60,7 @@ last_tokens = generated_tokens[0]
 generated_text = tokenizer.decode(last_tokens).replace("�", "")
 print("Generation:\n" + generated_text)
 ```
-When run, this code generates:
+When run, produces output like this:
 ```
 Generation:
 あらすじ：あなたは異世界に転生してしまいました。勇者となって、仲間を作り、異世界を冒険しよう！
