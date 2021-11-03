@@ -1,6 +1,7 @@
 ---
 language:
 - jp
+- en
 tags:
 - pytorch
 - causal-lm
@@ -15,7 +16,7 @@ Please check our blog post for more details, samples, evaluations and more:
 
 ## Model Description
 
-Genji-JP 6B is a model finetuned on our Japanese storytelling dataset based off EleutherAI's GPT-J 6B model. This particular model is trained on Japanese web novels.
+Genji-JP 6B is a model finetuned on our Japanese storytelling dataset based on EleutherAI's GPT-J 6B model. This particular model is trained on Japanese web novels.
 
 | Hyperparameter    | Value  | 
 |-------------------|--------|
