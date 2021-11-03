@@ -43,7 +43,8 @@ GPT-J 6B was pretrained on the [Pile](pile.eleuther.ai), a large scale curated d
 
 ### How to use
 
-```from transformers import AutoTokenizer, AutoModelForCausalLM
+```
+from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
