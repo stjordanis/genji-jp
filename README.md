@@ -40,7 +40,7 @@ GPT-2/GPT-3.
 
 ## Training data
 
-GPT-J 6B was pretrained on the [Pile](pile.eleuther.ai), a large scale curated dataset created by EleutherAI for the purpose of training this model. After the pre-training, it's finetuned on the python code that was taken from the Pile.
+GPT-J 6B was pretrained on the [Pile](pile.eleuther.ai), a large scale curated dataset created by EleutherAI for the purpose of training this model. After the pre-training, it's finetuned on our Japanese storytelling dataset. Check our blog post for more details.
 
 ### How to use
 
